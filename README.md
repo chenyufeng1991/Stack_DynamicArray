@@ -1,0 +1,2 @@
+# Stack_DynamicArray
+C语言实现使用动态数组来构建栈结构
